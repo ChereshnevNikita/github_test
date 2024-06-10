@@ -1,2 +1,2 @@
-# README
-The information about the project, installation process, etc.
+# About the Project
+The information about the project, installation process, contributors, etc.
