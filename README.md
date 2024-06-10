@@ -1,1 +1,2 @@
-# github_test
+# README
+The information about the project, installation process, etc.
